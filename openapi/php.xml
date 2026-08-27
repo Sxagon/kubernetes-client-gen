@@ -20,8 +20,8 @@
                             <skipValidateSpec>true</skipValidateSpec>
                             <inputSpec>${generator.spec.path}</inputSpec>
                             <generatorName>php</generatorName>
-                            <gitUserId>kubernetes-php</gitUserId>
-                            <gitRepoId>php</gitRepoId>
+                            <gitUserId>sxagon</gitUserId>
+                            <gitRepoId>k8s-php-client</gitRepoId>
                             <configOptions>
                                 <packageName>${generator.package.name}</packageName>
                                 <invokerPackage>Kubernetes\Client</invokerPackage>
